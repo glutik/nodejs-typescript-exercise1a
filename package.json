@@ -1,0 +1,22 @@
+{
+  "name": "exercise1",
+  "version": "1.0.0",
+  "description": "Exercise 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glutik/nodejs-typescript-exercise1a.git"
+  },
+  "author": "KAG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glutik/nodejs-typescript-exercise1a/issues"
+  },
+  "homepage": "https://github.com/glutik/nodejs-typescript-exercise1a#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
